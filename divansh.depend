@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1461849095 source:/home/iiitd/Desktop/divansh/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+
